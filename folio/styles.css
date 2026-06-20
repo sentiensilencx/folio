@@ -30,3 +30,15 @@ p {
     border-radius: 50%;
     margin: 0;
 }
+
+body {
+      background-color: #fff1e6;
+      color: white;
+      font-family: sans-serif;
+      display: flex;
+      height: 100vh;
+      margin: 0;
+    }
+    h1 {
+      color: #ff6b6b;
+}
